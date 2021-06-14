@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, Eu sou Debora Rodrigues</h1>
-<h3 align="center">Sou estudante de Desenvolvimento front -end</h3>
+<h3 align="center">Sou estudante de Desenvolvimento front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souzadbr&label=Profile%20views&color=0e75b6&style=flat" alt="souzadbr" /> </p>
 
@@ -9,7 +9,9 @@
 
 - 📄 Para saber mais sobre minhas experiências: [https://www.linkedin.com/in/debora-rodrigues-dev/](https://www.linkedin.com/in/debora-rodrigues-dev/)
 
-- ⚡ Hobbys **Leitura, Arte, Desenhos e Viagens**
+- ⚡ Hobbys **Programar,Leitura, Arte, Desenhos e Viagens**
+
+<p align= "left"> <a href ="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fgato-computadora-gifs&psig=AOvVaw0jrI0RD_Kme9LX0lvMf9gx&ust=1623763799653000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi2j9edl_ECFQAAAAAdAAAAABAD"</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
