@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, Eu sou Debora Rodrigues</h1>
-<h3 align="center">Sou estudante de Desenvolvimento front-end</h3>
+<h3 align="center">Sou estudante de Desenvolvimento </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souzadbr&label=Profile%20views&color=0e75b6&style=flat" alt="souzadbr" /> </p>
 
